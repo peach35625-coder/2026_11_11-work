@@ -2,7 +2,7 @@
 
 ## Python 檔案操作練習
 
-初學者可以從 [readfile.py](./readfile.py) 開始，依序練習讀取整個檔案、逐行讀取、寫入及附加內容。範例資料在 [sample.txt](./sample.txt)。
+初學者可以先閱讀 [readfile.md](./readfile.md)，再搭配 [readfile.py](./readfile.py) 一步一步練習。範例資料在 [sample.txt](./sample.txt)。
 
 在專案資料夾中執行：
 
